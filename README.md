@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Nicolas Fernandez Garcia 👋</h1>
 
-<!--
-**NicoFernz/NicoFernz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Desarrollador | Entusiasta de la tecnología | Aprendiendo cada día</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/nicolas-fernández-9a1779361/">LinkedIn</a> •
+  <a href="mailto:nicolas31fer@gmail.com">Email</a>
+</p>
+
+<br/>
+
+<h2>💻 Sobre mí</h2>
+
+<ul>
+  <li>🎓 Estudiante de Prgarmacion Full Stack - Universidad Provincial de Corddoba</li>
+  <li>🌱 Actualmente aprendiendo Desarollo de Software y bases de datos</li>
+  <li>🚀 Me interesa el desarrollo de aplicaciones prácticas que resuelvan problemas reales</li>
+</ul>
+
+<h2>🛠 Tecnologías que uso</h2>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite"/>
+</p>
+
+---
+
+<p align="center">Gracias por visitar mi perfil 🙌</p>
