@@ -6,7 +6,7 @@
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/nicolas-fernández-9a1779361/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/nicolas-ferndz/">LinkedIn</a> •
   <a href="mailto:nicolas31fer@gmail.com">Email</a>
 </p>
 
