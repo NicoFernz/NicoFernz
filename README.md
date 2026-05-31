@@ -15,7 +15,7 @@
 <h2>💻 Sobre mí</h2>
 
 <ul>
-  <li>🎓 Estudiante de Prgarmacion Full Stack - Universidad Provincial de Corddoba</li>
+  <li>🎓 Estudiante de Prgarmacion Full Stack - Universidad Provincial de Cordoba</li>
   <li>🌱 Actualmente aprendiendo Desarollo de Software y bases de datos</li>
   <li>🚀 Me interesa el desarrollo de aplicaciones prácticas que resuelvan problemas reales</li>
 </ul>
